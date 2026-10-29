@@ -2,6 +2,8 @@
 
 **Create, edit, verify, and export ArUco markers from a modern Python desktop interface.**
 
+<img width="1066" height="749" alt="Screenshot 2026-10-29 212401" src="https://github.com/user-attachments/assets/6a5ac20e-be08-4082-92c6-09a95c670706" />
+
 ArUco Studio is an offline tool for makers, robotics enthusiasts, and computer vision projects. Generate markers from OpenCV's predefined dictionaries, explore their binary patterns with a clickable grid, and save images for printing or use in your own applications.
 
 The interface uses a dark theme and is entirely in English. No camera, ROS installation, account, or online service is required to use the application. Internet access is needed only to download the application and install its dependencies.
